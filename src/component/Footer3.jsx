@@ -329,7 +329,7 @@ function Footer3() {
               <h5 className="link-footer1">Contact Us</h5>
             </Link>
             <Link to="/Card" className="link-footer1">
-              <h5 className="link-footer1">Two wheeler insurence</h5>
+              <h5 className="link-footer1">Two wheeler insurance</h5>
             </Link>
             <Link to="/Card" className="link-footer1">
               <h5 className="link-footer1">Pocket insurence</h5>
